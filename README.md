@@ -3,9 +3,8 @@
 
 **Designed with Telegram pattern!**
 
-Persian document: <https://iliyagram.tk/fa>
-
-Getting started with the library: ```php
+Getting started with the library:
+```php
 <?php
 require 'vendor/autoload.php';
 
